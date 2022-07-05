@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=IlieLaurentiu&style=flat-square&color=blue" alt=""/>
   <a href="https://www.instagram.com/ilie_laurentiu8/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -12,7 +12,6 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
 
 ### :man_technologist: About Me:
 - :telescope: I’m an aspiring C# / .NET dev & video game dev.
