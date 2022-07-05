@@ -16,7 +16,7 @@
 ### :man_technologist: About Me:
 - :telescope: I’m an aspiring C# / .NET dev & video game dev.
 
-- :seedling: Exploring cloud platforms for my future knowledge.
+- :seedling: Exploring cloud platforms
 
 - :zap: In my free time I host video game jams on itch.io 
 
@@ -42,4 +42,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlieLaurentiu&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlieLaurentiu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
