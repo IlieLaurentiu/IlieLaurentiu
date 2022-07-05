@@ -1,8 +1,8 @@
-<div id="header" align:"center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=IlieLaurentiu&style=flat-square&color=blue" alt=""/>
   <a href="https://www.instagram.com/ilie_laurentiu8/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
