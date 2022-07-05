@@ -25,7 +25,7 @@
 
 - :zap: In my free time I host video game jams on itch.io 
 
-- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ilielaurentiu8@yahoo.com)[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilie_laurentiu8/)
+- :mailbox: How to reach me: ilielaurentiu8@yahoo.com
 
 ---
 
