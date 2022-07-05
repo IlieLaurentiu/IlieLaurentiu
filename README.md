@@ -19,7 +19,7 @@
 </h1>
 
 ### :man_technologist: About Me:
-- :telescope: I’m an aspiring C# / .NET dev & video game dev.
+- :telescope: I’m an aspiring C# dev & video game dev.
 
 - :seedling: Exploring .NET development & cloud platforms.
 
