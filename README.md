@@ -9,7 +9,7 @@
   </a>
  </div>
 <h1>
-  Hey there! :wave:
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ---
@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio"  alt="visual_studio" width="40" height="40"/>&nbsp;
-  <img src="https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg" title="PyCharm"  **alt="pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm"  **alt="pycharm" width="40" height="40"/>&nbsp;
 </div>
 
 ---
