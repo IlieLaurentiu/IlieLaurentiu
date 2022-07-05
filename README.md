@@ -8,6 +8,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h1>
   Hey there! :wave:
 </h1>
@@ -15,7 +20,7 @@
 ### :man_technologist: About Me:
 - :telescope: I’m an aspiring C# / .NET dev & video game dev.
 
-- :seedling: Exploring cloud platforms
+- :seedling: Exploring .NET development & cloud platforms.
 
 - :zap: In my free time I host video game jams on itch.io 
 
