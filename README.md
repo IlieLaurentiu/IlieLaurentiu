@@ -19,9 +19,9 @@
 </h1>
 
 ### :man_technologist: About Me:
-- :telescope: I’m an aspiring C# dev & video game dev.
+- :telescope: I’m an aspiring Software Developer
 
-- :seedling: Exploring .NET development & cloud platforms.
+- :seedling: Exploring Web Development
 
 - :zap: In my free time I host video game jams on itch.io 
 
