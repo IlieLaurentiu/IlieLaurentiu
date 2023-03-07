@@ -11,7 +11,7 @@
 </h1>
 
 ### :man_technologist: About Me:
-- Studying web development
+- Studying software development
 
 - :mailbox: How to reach me: ilielaurentiu8@yahoo.com
 
