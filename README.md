@@ -21,11 +21,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="github" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
+---
+
+<div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
----
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlieLaurentiu&theme=dark&background=000000)](https://git.io/streak-stats)
