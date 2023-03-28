@@ -9,7 +9,7 @@
 ### :man_technologist: About Me:
 - Studying software development & game development
 
-- Computer science student
+- Computer science (systems engineering) student
 
 - :mailbox: How to reach me: ilielaurentiu8@yahoo.com
 
