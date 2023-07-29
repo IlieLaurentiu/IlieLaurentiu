@@ -7,11 +7,9 @@
 </h1>
 
 ### :man_technologist: About Me:
-- Studying software development & game development
+- Studying web development
 
 - Systems engineering student
-
-- :mailbox: How to reach me: ilielaurentiu8@yahoo.com
 
 ---
 
