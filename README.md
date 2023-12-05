@@ -6,14 +6,14 @@
   Hey there! :wave:
 </h1>
 
-### :man_technologist: About Me:
+### 👨‍💻 About Me:
 - Aspiring Game Developer
 
 - Systems engineering student
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp" width="40" height=40"/>
