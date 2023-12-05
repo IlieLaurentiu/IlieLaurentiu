@@ -7,7 +7,7 @@
 </h1>
 
 ### 👨‍💻 About Me:
-- Aspiring Game Developer
+- Aspiring Software Developer
 
 - Systems engineering student
 
