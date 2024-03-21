@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me:
 - Systems engineering student
-- Exploring a lot of programming areas
+- Exploring all kind of programming areas
   
 ---
 
