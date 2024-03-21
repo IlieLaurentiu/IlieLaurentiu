@@ -7,7 +7,7 @@
 </h1>
 
 ### 👨‍💻 About Me:
-- Aspiring Software Developer
+- Studying programming
 
 - Systems engineering student
 
@@ -20,6 +20,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="UnityEngine"  alt="unity-engine" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio"  alt="visual-studio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="DotNet" alt="dot-net icon" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="blazor icon" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="java icon" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python icon" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL icon" width="40" height="40"/>
+  
 </div>
 
 ---
