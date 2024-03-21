@@ -7,10 +7,9 @@
 </h1>
 
 ### 👨‍💻 About Me:
-- Studying programming
-
 - Systems engineering student
-
+- Exploring a lot of programming areas
+  
 ---
 
 ### 🛠️ Languages and Tools :
